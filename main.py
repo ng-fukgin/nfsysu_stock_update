@@ -39,7 +39,7 @@ def main():
         shutil.copyfile('StockQFQ_%s.mat'%(time.strftime('%Y',time.localtime(time.time()))),'StockQFQ_%s_backup.mat'%(time.strftime('%Y',time.localtime(time.time()))))
     except:
         pass
-    d=Detect('E:/WFJ/test/StockQFQ.mat')
+    d=Detect('StockQFQ.mat')
    
 
     warnings.warn('nfsysu_stock_upadate 将会在后续版本中被移除,请使用nfsysu_stock_update')
