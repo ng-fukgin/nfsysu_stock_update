@@ -4,13 +4,13 @@
 ## 版本
 ### 0.0.1
 测试版本
-### 0.0.2
+### 0.0.3
 修复了部分matlab函数依赖问题
 
 # 使用方法
 1. 安装nfsysu-stock-upadate库
 
-```pip install nfsysu-stock-upadate==0.0.2```
+```pip install nfsysu-stock-upadate==0.0.3```
 
 **nfsysu_stock_upadate 将会在后续版本中被移除,请使用nfsysu_stock_update**
 
