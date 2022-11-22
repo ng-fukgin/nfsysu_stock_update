@@ -1,4 +1,4 @@
-# nfsysu_stock_upadate 
+# [nfsysu_stock_upadate](https://pypi.org/project/nfsysu-stock-upadate/)
 
 这是一个智能更新股票数据的库，仅供中大南方人工智能研究中心内部人员使用
 ## 版本
