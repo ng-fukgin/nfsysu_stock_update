@@ -6,3 +6,12 @@
 测试版本
 ### 0.0.2
 修复了部分matlab函数依赖问题
+
+# 使用方法
+1.安装nfsysu-stock-upadate库
+```pip install nfsysu-stock-upadate==0.0.2```
+2.写一个Python程序。例如test.py
+```
+   from  nfsysu_stock_upadate import main
+   main.main()
+```
